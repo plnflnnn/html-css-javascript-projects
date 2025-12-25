@@ -51,7 +51,6 @@ Multi-section landing page with modern UI elements.
 - Optimized assets
 
 **Tech:**
-- SCSS
 - Bootstrap 5
 - Gulp
 - Webpack
@@ -86,7 +85,7 @@ Interactive landing page with a custom slider and animations.
 - Cross-browser compatibility
 
 **Tech:**
-- HTML, CSS, JavaScript
+- JavaScript
 - animate.css (custom slider animations)
 - Gulp
 - Webpack
@@ -118,7 +117,7 @@ Landing page focused on layout and UI interactions.
 - Optimized build process
 
 **Tech:**
-- HTML, CSS, JavaScript
+- JavaScript
 - Gulp
 - Webpack
 - Babel
